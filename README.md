@@ -178,4 +178,6 @@ Chunk size and overlap for text splitting can be changed in the `PDFProcessor.__
 
 ## License
 
-This project is for educational / practice purposes.
+This project is for educational / practice purposes. 
+
+https://github.com/user-attachments/assets/22e908db-d0e7-40f7-a9c6-3e3359396de2
